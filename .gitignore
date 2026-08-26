@@ -1,0 +1,26 @@
+# Questa / ModelSim
+work/
+transcript
+*.wlf
+*.vcd
+
+# Quartus generated files
+db/
+incremental_db/
+simulation/
+output_files/
+*.rpt
+*.summary
+*.qws
+*.smsg
+*.jdi
+*.pin
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
