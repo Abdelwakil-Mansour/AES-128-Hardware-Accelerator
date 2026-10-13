@@ -601,7 +601,7 @@ gtkwave aes_top.vcd
 | Quartus Prime | Not executed (no `.qpf` present) |
 
 ---
-
+<!-- 
 ## Team
 
 | Role | Contributor |
@@ -610,7 +610,7 @@ gtkwave aes_top.vcd
 | Key schedule (`key_expansion`, `rot_word`, `sub_word`, `rcon`, `key_register`) | Person 2 |
 | Control and integration (`controller`, `round_counter`, `state_register`, `aes_top`, testbenches, scripts) | Person 3 |
 
----
+--- -->
 
 ## References
 
